@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Sandep Sharma",
+      "email": "snd@gmail.com",
+      "phoneNo": "8979390204"
+    },
+    {
+      "id": 2,
+      "name": "Akash bhistu",
+      "email": "ask@gmail.com",
+      "phoneNo": "8878380204"
+    }
+  ]
+}
